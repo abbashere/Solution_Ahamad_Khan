@@ -13,7 +13,7 @@ This assignment requires [Node.js](https://nodejs.org/) v4+ to run.
 Install the dependencies and devDependencies and start the solution.
 
 ```sh
-$ cd test-assignment
+$ cd Solution_Ahamad_Khan
 $ npm install or npm install -d with debugging output log.
 $ npm run solution
 ```
