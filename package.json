@@ -16,7 +16,7 @@
   "devDependencies": {
     "jasmine": "^3.5.0",
     "jasmine-spec-reporter": "^4.2.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   },
   "dependencies": {}
 }
